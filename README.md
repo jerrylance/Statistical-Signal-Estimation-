@@ -3,7 +3,7 @@ I use MATLAB to solve some problems in ECE 6865
 
 final project 
 
-This is a CNN to classify image program， has a detailed explanation.
+This is an CNN to classify image program， has a detailed explanation.
 
 CH7-13
 
